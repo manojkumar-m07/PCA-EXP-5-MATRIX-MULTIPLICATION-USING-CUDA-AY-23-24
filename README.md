@@ -1,7 +1,10 @@
 # PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
-<h3>ENTER YOUR NAME</h3>  Manojkumar M
-<h3>ENTER YOUR REGISTER NO</h3> 212225040226
-<h3>EX. NO</h3>   5
+## ENTER YOUR NAME 
+Manojkumar M
+## ENTER YOUR REGISTER NO
+212225040226
+## EX. NO
+5
 ## AIM:
 To perform Matrix Multiplication using CUDA and check its performance with nvprof.
 ## EQUIPMENTS REQUIRED:
@@ -198,4 +201,4 @@ int main()
 ## OUTPUT:
 <img width="1043" height="263" alt="328757691-c99568c6-669b-4f96-94ee-7038c443b740" src="https://github.com/user-attachments/assets/247477d4-3e7f-4ece-b568-8bacc3f3b8b9" />
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took ______________time and host took ___________time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000291 seconds time and host took 0.000291 seconds time.
